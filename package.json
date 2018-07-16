@@ -1,0 +1,18 @@
+{
+  "name": "diffview",
+  "main": "./lib/diffview",
+  "version": "0.0.0",
+  "description": "Display the differences between multiple versions of the same passage.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "diffview:toggle"
+  },
+  "repository": "https://github.com/nCoda/diffview.git",
+  "license": "LGPLv3",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
