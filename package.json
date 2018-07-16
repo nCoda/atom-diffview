@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "diffview:toggle"
   },
-  "repository": "https://github.com/nCoda/diffview.git",
+  "repository": "https://github.com/nCoda/atom-diffview.git",
   "license": "LGPLv3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
